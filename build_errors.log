@@ -1,0 +1,7 @@
+2015-05-27 19:43:33.287 xcodebuild[30432:6f03]  DeveloperPortal: Using pre-existing current store at URL (file:///Users/antonditativ/Library/Developer/Xcode/DeveloperPortal%206.2.db).
+** BUILD FAILED **
+
+
+The following build commands failed:
+	Ld build/Float.build/Release-iphoneos/Float.build/Objects-normal/armv7/Float normal armv7
+(1 failure)

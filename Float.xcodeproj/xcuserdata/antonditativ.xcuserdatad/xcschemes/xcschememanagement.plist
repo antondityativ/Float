@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Float.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>FloatExt.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>FloatExtension.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>OCLint.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>6E5692481B15F281005BBAA3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6E7615501B16C4F100C7AACC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6E7615631B16C52900C7AACC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EA9509D1B14195B0029460E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EA950B91B14195B0029460E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6EA951251B15BD340029460E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

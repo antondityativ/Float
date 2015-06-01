@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2AC2E078-21B0-447E-89D6-FAA74DB8DD03</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Float</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>52A8B846E4BF1DFA676234595C3586CF6777A968</key>
+		<string>ssh://git.ltst.su/ios/float.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Float.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>52A8B846E4BF1DFA676234595C3586CF6777A968</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://git.ltst.su/ios/float.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>52A8B846E4BF1DFA676234595C3586CF6777A968</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>52A8B846E4BF1DFA676234595C3586CF6777A968</string>
+			<key>IDESourceControlWCCName</key>
+			<string>float_dit</string>
+		</dict>
+	</array>
+</dict>
+</plist>

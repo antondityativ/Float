@@ -1,0 +1,23 @@
+//
+//  FloatPrefixHeader.pch
+//  Float
+//
+//  Created by Антон Дитятив on 26.05.15.
+//  Copyright (c) 2015 Антон Дитятив. All rights reserved.
+//
+
+#ifndef Float_FloatPrefixHeader_pch
+#define Float_FloatPrefixHeader_pch
+
+#import <UIKit/UIKit.h>
+#import <Foundation/Foundation.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
+
+#define screenWidth [UIScreen mainScreen].bounds.size.width
+#define screenHeight [UIScreen mainScreen].bounds.size.height
+//#define screenWidth self.view.frame.size.width
+//#define screenHeight self.view.frame.size.height
+#define navigationBarHeight self.navigationController.navigationBar.frame.size.height

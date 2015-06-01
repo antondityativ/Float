@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6751" systemVersion="13F1077" minimumToolsVersion="Automatic" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="Person" syncable="YES">
+        <attribute name="email" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="people_id" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <entity name="Tasks" syncable="YES">
+        <attribute name="hours_pd" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="people_id" optional="YES" attributeType="Transformable" syncable="YES"/>
+        <attribute name="person_id" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="tasks" optional="YES" attributeType="Transformable" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Person" positionX="-63" positionY="-18" width="128" height="75"/>
+        <element name="Tasks" positionX="-54" positionY="9" width="128" height="103"/>
+    </elements>
+</model>
